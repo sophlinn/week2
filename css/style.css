@@ -1,0 +1,14 @@
+nav a{
+    text-transform:uppercase;
+    background-color:white;
+    font-style:arial; 
+    color:slategrey;
+    text: slategrey
+}
+
+body{
+    background-color:lightgrey;
+}
+
+/* My CSS won't work on when it is uploaded to github */
+
